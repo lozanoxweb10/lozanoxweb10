@@ -43,7 +43,6 @@ Soy autodidacta y entusiasta de la **ciberseguridad**: dedico tiempo a ampliar m
 | 🌏 **[MyanConflict](https://myanconflict.netlify.app/)** | Mapa interactivo documentando el conflicto civil de Myanmar, con plantillas reutilizables por facción y estética visual propia. |
 | ⛪ **[Enciclopedia de Semana Santa](https://jmcofrade.vercel.app/)** | Web tipo álbum/scrapbook cofrade sobre la Semana Santa de Jerez y Málaga. |
 
-> 📌 *Actualiza los enlaces de cada proyecto con la URL real de tu repositorio en GitHub.*
 
 ---
 
@@ -75,4 +74,4 @@ Formándome de manera autodidacta en ciberseguridad: fundamentos de seguridad of
 
 ---
 
-<p align="center">📫 ¿Hablamos? Contáctame por <a href="https://www.linkedin.com/in/ALVAROLOZANOBARREIRO">LinkedIn</a></p>
+<p align="center">📫 ¿Hablamos? Contáctame por <a href="https://www.linkedin.com/in/%C3%A1lvaro-lozano-barreiro-819b14404/?skipRedirect=true">LinkedIn</a></p>
