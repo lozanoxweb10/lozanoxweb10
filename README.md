@@ -37,10 +37,10 @@ Soy autodidacta y entusiasta de la **ciberseguridad**: dedico tiempo a ampliar m
 
 | Proyecto | Descripción |
 |---|---|
-| 🖋️ **[Papelería El Retiro](https://github.com/lozanoxweb10)** | Página web desarrollada para una papelería de Jerez de la Frontera, con identidad visual inspirada en papel kraft. |
-| 🎓 **[Web del IES](https://github.com/lozanoxweb10)** | Sitio web desarrollado para el instituto IES Dra. Josefa de los Reyes. |
-| 🌏 **[MyanConflict](https://github.com/lozanoxweb10)** | Mapa interactivo documentando el conflicto civil de Myanmar, con plantillas reutilizables por facción y estética visual propia. |
-| ⛪ **[Enciclopedia de Semana Santa](https://github.com/lozanoxweb10)** | Web tipo álbum/scrapbook cofrade sobre la Semana Santa de Jerez y Málaga. |
+| 🖋️ **[Papelería El Retiro](https://papeleriaelretiro.netlify.app/)** | Página web desarrollada para una papelería de Jerez de la Frontera, con identidad visual inspirada en papel kraft. |
+| 🎓 **[Web del IES](https://iesjosefadelosreyes.netlify.app/)** | Sitio web desarrollado para el instituto IES Dra. Josefa de los Reyes. |
+| 🌏 **[MyanConflict](https://myanconflict.netlify.app/)** | Mapa interactivo documentando el conflicto civil de Myanmar, con plantillas reutilizables por facción y estética visual propia. |
+| ⛪ **[Enciclopedia de Semana Santa](https://jmcofrade.vercel.app/)** | Web tipo álbum/scrapbook cofrade sobre la Semana Santa de Jerez y Málaga. |
 
 > 📌 *Actualiza los enlaces de cada proyecto con la URL real de tu repositorio en GitHub.*
 
