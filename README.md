@@ -2,7 +2,7 @@
 <h3 align="center">Desarrollador Web · Estudiante de CFGS DAW · Entusiasta de Ciberseguridad</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ALVAROLOZANOBARREIRO">
+  <a href="https://www.linkedin.com/in/%C3%A1lvaro-lozano-barreiro-819b14404/?skipRedirect=true">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/lozanoxweb10">
@@ -30,6 +30,7 @@ Soy autodidacta y entusiasta de la **ciberseguridad**: dedico tiempo a ampliar m
 **IES Dra. Josefa de los Reyes** (Jerez de la Frontera)
 - Desarrollador web
 - Instalador y operador de bases de datos — **PostgreSQL**
+- Mantenimiento y reparación de Hardware informático
 
 ---
 
