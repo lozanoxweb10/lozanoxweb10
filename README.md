@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ALVAROLOZANOBARREIRO">
-    <img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/%C3%A1lvaro-lozano-barreiro-819b14404/?skipRedirect=true)" />
+    <img src="https://www.linkedin.com/in/%C3%A1lvaro-lozano-barreiro-819b14404/?skipRedirect=true" />
   </a>
   <a href="https://github.com/lozanoxweb10">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
