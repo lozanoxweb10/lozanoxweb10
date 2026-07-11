@@ -66,12 +66,6 @@ Formándome de manera autodidacta en ciberseguridad: fundamentos de seguridad of
 
 ---
 
-### 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lozanoxweb10&show_icons=true&theme=default" alt="Estadísticas de GitHub de Álvaro" />
-</p>
-
----
 
 <p align="center">📫 ¿Hablamos? Contáctame por <a href="https://www.linkedin.com/in/%C3%A1lvaro-lozano-barreiro-819b14404/?skipRedirect=true">LinkedIn</a></p>
